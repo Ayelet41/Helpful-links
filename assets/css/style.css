@@ -1,0 +1,54 @@
+﻿
+/* =============================================================
+   GENERAL STYLES
+ ============================================================ */
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color:#000;
+}
+.text-center {
+    text-align:center;
+}
+.pad-top {
+    padding-top:20px;
+}
+
+small {
+    font-size:15px;
+    padding-left:10px;
+}
+
+.plan {
+padding: 0 0 5px 0;
+margin: 0px 0px;
+list-style: none;
+text-align: left;
+}
+
+.plan li {
+padding: 10px 0px;
+border-bottom: 1px dotted #e1e1e1;
+font-size: large;
+}
+    .plan li i {
+        padding-right:10px;
+    }
+.price {
+    font-size:30px!important;
+    padding: 15px 0px;
+background-color: rgba(162, 188, 253, 1);
+color: #fff;
+border: none;
+font-weight: 900;
+}
+
+.adjust-border-radius {
+    -webkit-border-radius: 0px;
+-moz-border-radius: 0px;
+border-radius: 0px;
+}
+
+.adjust-border {
+    border-top-left-radius: 0px;
+ border-top-right-radius: 0px;
+}
